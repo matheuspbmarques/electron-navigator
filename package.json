@@ -22,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/matheuspbmarques/electron-navigator/issues"
   },
-  "homepage": "https://github.com/matheuspbmarques/electron-navigator#readme",
-  "dependencies": {
-    "react": "^17.0.0"
-  }
+  "homepage": "https://github.com/matheuspbmarques/electron-navigator#readme"
 }
