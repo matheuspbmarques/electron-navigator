@@ -1,0 +1,33 @@
+{
+  "name": "electron-navigator",
+  "version": "1.0.0",
+  "description": "Navigate between screens in Electron app with Electron Forge and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuspbmarques/electron-navigator.git"
+  },
+  "keywords": [
+    "electron",
+    "navigate",
+    "navigator",
+    "react",
+    "forge"
+  ],
+  "author": "Matheus Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheuspbmarques/electron-navigator/issues"
+  },
+  "homepage": "https://github.com/matheuspbmarques/electron-navigator#readme",
+  "dependencies": {
+    "@types/react": "^18.0.28",
+    "react": "^17.0.0"
+  },
+  "devDependencies": {
+    "typescript": "4.3"
+  }
+}
