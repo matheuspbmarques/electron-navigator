@@ -1,8 +1,9 @@
 {
   "name": "electron-navigator",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Navigate between screens in Electron app with Electron Forge and React",
-  "main": "index.js",
+  "main": "index.ts",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,10 +25,6 @@
   },
   "homepage": "https://github.com/matheuspbmarques/electron-navigator#readme",
   "dependencies": {
-    "@types/react": "^18.0.28",
     "react": "^17.0.0"
-  },
-  "devDependencies": {
-    "typescript": "4.3"
   }
 }
