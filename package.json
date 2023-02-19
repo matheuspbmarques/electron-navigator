@@ -1,6 +1,6 @@
 {
   "name": "electron-navigator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Navigate between screens in Electron app with Electron Forge and React",
   "main": "index.js",
   "scripts": {
